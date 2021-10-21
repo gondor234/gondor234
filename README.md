@@ -1,8 +1,8 @@
 ### Hi there 👋 
 Ola eu sou o andre stefano (gondor234)
 
-- 🔭 trabalho com Publicidade e Propaganda no momento
-- 🌱 Estudando Programação
+- 🔭 Trabalho com Publicidade e Propaganda no momento
+- 🌱 Estudante de Pulicidade e Propaganda - FMU e Estudante de Programação
 - 💬 Pode me chamar de stefano
 - 📫 Contate-me no email : stefano.trabalho@gmail.com
 - 😄 Pronouns: Ele/Dele
