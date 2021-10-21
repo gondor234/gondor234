@@ -7,7 +7,7 @@ Ola eu sou o andre stefano (gondor234)
 - 📫 Contate-me no email : stefano.trabalho@gmail.com
 - 😄 Pronouns: Ele/Dele
 ##
-<div align="right">
+<div align="left">
   <a href="https://github.com/gondor234">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gondor234&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gondor234&layout=compact&langs_count=7&theme=dracula"/>
